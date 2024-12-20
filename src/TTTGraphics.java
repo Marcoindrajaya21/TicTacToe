@@ -22,7 +22,8 @@ public class TTTGraphics extends JFrame {
     public static final Color COLOR_BG_STATUS = new Color(216, 216, 216);
     public static final Color COLOR_GRID = Color.WHITE;
     public static final Color COLOR_CROSS = new Color(138, 43, 226);  // Purple
-    public static final Color COLOR_NOUGHT = new Color(255, 255, 0);  // Yellow
+     public static final Color COLOR_NOUGHT = new Color(255, 0, 0);  // Red
+
     public static final Font FONT_STATUS = new Font("Arial Black", Font.ITALIC, 18);
 
     // Game state
